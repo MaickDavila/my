@@ -1,3 +1,3 @@
 <template>
-  <router-view />
+  <todo-app-index />
 </template>
